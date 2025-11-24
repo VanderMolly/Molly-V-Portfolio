@@ -79,6 +79,11 @@ body {
 
 }
 
+/*get rid of bullets*/
+body ul {
+  list-style-type: none;
+}
+
 /*home page background*/
 .homebody {
 background-image: url(Background/Home.jpg);
@@ -110,9 +115,7 @@ background-image: url(Background/Home.jpg);
     background-attachment: fixed;
 }
 
-.cright ul {
-  list-style-type: none;
-}
+
 
 
 /*works page display text*/
