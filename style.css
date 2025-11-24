@@ -199,6 +199,11 @@ background-image: url(Background/Home.jpg);
 /*footer*/
 
 footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #fff1f1;
     position: fixed;
     left: 5px;
     bottom: 0;   
