@@ -201,9 +201,10 @@ background-image: url(Background/Home.jpg);
 footer {
     display: flex;
     justify-content: space-between;
+    bottom: 0; 
     align-items: center;
     padding: 1rem;
-    background: #fff1f1;
+    background: #f1f3ff;
 }
 
 /*contact me*/
