@@ -110,9 +110,10 @@ background-image: url(Background/Home.jpg);
     background-attachment: fixed;
 }
 
-.right li {
-    text-decoration: none;
+.cright ul {
+  list-style-type: none;
 }
+
 
 /*works page display text*/
 .deswork {
