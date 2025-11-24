@@ -198,19 +198,12 @@ background-image: url(Background/Home.jpg);
 
 /*footer*/
 
-footer{
+footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
     background: #fff1f1;
-    position: fixed;
-    left: 5px;
-    bottom: 0;   
-    width: 100%;
-    color: rgb(0, 82, 141);
-    font-size:10px;
-
 }
 
 /*contact me*/
