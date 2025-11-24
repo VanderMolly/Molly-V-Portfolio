@@ -22,6 +22,7 @@ margin: 0;
     display:flex;
     flex-direction: row;
     justify-content: center;
+
 }
 
 .navbar a{
@@ -119,7 +120,7 @@ background-image: url(Background/Home.jpg);
 .deswork {
     border: 3px solid rgb(87, 203, 241);
     border-radius: 250px;
-    width: 50%;
+    width: 30%;
     font-size: 3vw;
     padding: 1vw;
     margin-left: 120px;
